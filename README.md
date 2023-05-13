@@ -2,7 +2,7 @@
 
 A simple mod board for the WiiU gamepad that replaces the stock connector with a USB C port. The CC pins are connected and use 2 56kΩ resistors that allow for 500mA charging.
 
-![alt text][images/wiiuusbccombined.png]
+![Board Render][[images/wiiuusbccombined.png](https://raw.githubusercontent.com/vaugerbird/wiiuusbc/main/images/wiiuusbccombined.png)]
 
 ## Parts
 
